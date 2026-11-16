@@ -98,9 +98,9 @@ v2.10.13 已通过 **16/16 项本地模拟 Chromium 浏览器回归测试**，�
 
 ## ☕ 请我喝杯咖啡
 
-如果 BC Auto Workspace 帮你节省了一些重复点击的时间，也欢迎请开发者喝杯咖啡，支持后续维护与改进。**赞赏完全自愿，不影响插件的安装或使用。**
+如果 BC Auto Workspace 帮你节省了一些重复点击的时间，也欢迎请开发者喝杯咖啡，支持后续维护与改进。
 
-**微信赞赏码 — Sun liuyang**（点击可查看原图）：
+
 
 <p align="center">
   <a href="./assets/wechat-donate.png"><img src="./assets/wechat-donate.png" alt="Sun liuyang 微信赞赏码" width="420"></a>
@@ -111,7 +111,6 @@ v2.10.13 已通过 **16/16 项本地模拟 Chromium 浏览器回归测试**，�
 ## 👤 开发者与许可
 
 **开发者：** Jovi Sun  
-**联系邮箱：** jsu@novencogroup.com  
 **当前状态：** Public Beta
 
 现有扩展安装包未附带明确的开源许可文件；若准备开放源码供他人复用，请在 GitHub 仓库补充 `LICENSE`，明确授权条款。
