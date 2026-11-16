@@ -100,8 +100,6 @@ If Auto View does not work, confirm that the record is saved, the page rule and 
 
 If BC Auto Workspace saves you time, you're welcome to support its continued development with a coffee. **Support is entirely optional** and is not required to use the extension.
 
-**WeChat appreciation code — Sun liuyang** (click for the full-size image):
-
 <p align="center">
   <a href="./assets/wechat-donate.png"><img src="./assets/wechat-donate.png" alt="WeChat appreciation QR code for Sun liuyang" width="420"></a>
 </p>
