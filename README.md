@@ -111,7 +111,6 @@ Thank you for supporting small tools that make everyday Business Central work a 
 ## 👤 Developer and license
 
 **Developer:** Jovi Sun  
-**Contact:** jsu@novencogroup.com  
 **Status:** Public Beta
 
 No explicit open-source license is included in the supplied extension package. If this repository is intended for open-source reuse, add a `LICENSE` file specifying the terms.
